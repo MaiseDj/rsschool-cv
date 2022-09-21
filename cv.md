@@ -1,10 +1,13 @@
 # Evgeny Zhukovsky
 
-Phone: _+375298855412_  
-Mail: Zhychok85@gmail.com  
-[Linkedin](https://www.linkedin.com/in/evgeny-zhukovsky-381320250/)  
-Nickname on discord-server rs school: *Evgeniy_Zhukovskiy(@MaiseDj)*  
-Address: Belarus, Grodno, Kabyaka st. *43-31*.  
+## Contacts
+
+*Phone: _+375298855412_  
+*Mail: Zhychok85@gmail.com  
+*Telegram: @Maise_Dj
+*[Linkedin](https://www.linkedin.com/in/evgeny-zhukovsky-381320250/)  
+*Nickname on discord-server rs school: _Evgeniy_Zhukovskiy(@MaiseDj)_  
+*Address: Belarus, Grodno, Kabyaka st. _43-31_.  
 
 ## About me
 
@@ -13,16 +16,15 @@ My main qualities are purposefulness, sociability, the ability to work in multit
 
 ## Education
 
-__Energy-enginer__
+Energy-enginer
 
 Yanka Kupala State University of Grodno
 
-2012-2017 
+2012-2017
 
 ## Work experience
 
 I first started learning in August 2022, with an introduction to the basics of HTML/CSS and JS.
-
 
 I solved some tasks from codewars:
 
@@ -47,3 +49,7 @@ class SmallestIntegerFinder {
   }
 }
 ```
+
+## Language
+
+English level - A2
