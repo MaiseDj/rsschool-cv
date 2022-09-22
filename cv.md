@@ -2,12 +2,12 @@
 
 ## Contacts
 
-*Phone: _+375298855412_  
-*Mail: Zhychok85@gmail.com  
-*Telegram: @Maise_Dj
-*[Linkedin](https://www.linkedin.com/in/evgeny-zhukovsky-381320250/)  
-*Nickname on discord-server rs school: _Evgeniy_Zhukovskiy(@MaiseDj)_  
-*Address: Belarus, Grodno, Kabyaka st. _43-31_.  
+* Phone: _+375298855412_  
+* Mail: Zhychok85@gmail.com  
+* Telegram: @Maise_Dj
+* [Linkedin](https://www.linkedin.com/in/evgeny-zhukovsky-381320250/)  
+* Nickname on discord-server rs school: _Evgeniy_Zhukovskiy(@MaiseDj)_  
+* Address: Belarus, Grodno, Kabyaka st. _43-31_.  
 
 ## About me
 
@@ -16,7 +16,7 @@ My main qualities are purposefulness, sociability, the ability to work in multit
 
 ## Education
 
-Energy-enginer
+Enginer of energy
 
 Yanka Kupala State University of Grodno
 
